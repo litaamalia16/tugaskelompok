@@ -43,7 +43,7 @@ context.strokeRect(280,149,150,32);
 context.fillStyle='blue';
 context.fillRect(340,124,25,24); 
 context.strokeStyle="#000000";
-context.lineWidth=1;
+context.lineWidth=1; //tebal garis objek
 context.strokeRect(340,125,25,24);
 
 
