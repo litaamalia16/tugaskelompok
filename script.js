@@ -2,6 +2,7 @@ var myCanvas = document.getElementById('botol');
 var context = myCanvas.getContext('2d');
 myCanvas.width= myCanvas.scrollWidth;
 myCanvas.height=myCanvas.scrollHeight;
+//membuat badan,tutup, dan pegangan dengan posisi tertutup
 //badan1
 context.fillStyle='blue';
 context.fillRect(70,180,150,210); 
